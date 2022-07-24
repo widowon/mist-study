@@ -1,6 +1,7 @@
 
 public  class Example {
     public static void main(){
-        System.out.println("hello-world");
+
+        System.out.println("dev commit");
     }
 }
